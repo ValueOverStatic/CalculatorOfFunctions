@@ -1,0 +1,3 @@
+	This program is intended for solving of non-linear equations, building graphs and making tabular functions. In order to use this computer program you should adhere to some rules:
+	1. In primary window there are text fields where you should print interval [a;b] where is only ONE root of your equation. Roots of equation F(x)=0 are dots of graph of function F(x) on the x-axis (where F(x)=0). So you can see which roots has your equation approximately visually on the chart in program. If you need more than one root of equation, you can print a few intervals [a;b] later.
+	2. If your function F(x) has minimum or maximum on the x-axis, you should be sure there is only ONE extremum (minimum or maximum) in the interval [a; b]. This extremum of course must belong to the x-axis.
